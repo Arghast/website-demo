@@ -1,0 +1,39 @@
+.index-body {
+	background:linear-gradient(to bottom right, #ffffff, #004d4d);
+}
+
+.rectangle-thing {
+	text-align: center;
+	margin: 20px;
+	border: 2px solid red;
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+}
+
+.uncomfortable {
+	border: 5px solid #000000;
+	border-radius: 5px;
+	padding: 200px;
+	font-size: 40;
+	opacity: 0.4;
+	background-color:#ffffff;
+	color: #666666;
+	text-align: center;
+	height: 200px;
+	margin:20px;
+	
+}
+
+.aesthetic {
+	border: 5px dotted #000000;
+	border-radius: 200px;
+	padding: 20px;
+	font-size: 40;
+	opacity: 0.4;
+	margin:20px;
+	background-color:#ffffff;
+	color: #666666;
+	text-align: center;
+	height: 200px;
+}
